@@ -1,0 +1,13 @@
+D:\baitap\DaoNguocPhanTu\bin\Debug\netcoreapp3.1\DaoNguocPhanTu.exe
+D:\baitap\DaoNguocPhanTu\bin\Debug\netcoreapp3.1\DaoNguocPhanTu.deps.json
+D:\baitap\DaoNguocPhanTu\bin\Debug\netcoreapp3.1\DaoNguocPhanTu.runtimeconfig.json
+D:\baitap\DaoNguocPhanTu\bin\Debug\netcoreapp3.1\DaoNguocPhanTu.runtimeconfig.dev.json
+D:\baitap\DaoNguocPhanTu\bin\Debug\netcoreapp3.1\DaoNguocPhanTu.dll
+D:\baitap\DaoNguocPhanTu\bin\Debug\netcoreapp3.1\DaoNguocPhanTu.pdb
+D:\baitap\DaoNguocPhanTu\obj\Debug\netcoreapp3.1\DaoNguocPhanTu.csprojAssemblyReference.cache
+D:\baitap\DaoNguocPhanTu\obj\Debug\netcoreapp3.1\DaoNguocPhanTu.AssemblyInfoInputs.cache
+D:\baitap\DaoNguocPhanTu\obj\Debug\netcoreapp3.1\DaoNguocPhanTu.AssemblyInfo.cs
+D:\baitap\DaoNguocPhanTu\obj\Debug\netcoreapp3.1\DaoNguocPhanTu.csproj.CoreCompileInputs.cache
+D:\baitap\DaoNguocPhanTu\obj\Debug\netcoreapp3.1\DaoNguocPhanTu.dll
+D:\baitap\DaoNguocPhanTu\obj\Debug\netcoreapp3.1\DaoNguocPhanTu.pdb
+D:\baitap\DaoNguocPhanTu\obj\Debug\netcoreapp3.1\DaoNguocPhanTu.genruntimeconfig.cache
